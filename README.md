@@ -102,3 +102,4 @@ tools/make_icon.py      tạo assets/icon.ico
 
 - Nhập **đơn giá thật** cho 7 mặt hàng trong tab *Bảng giá* (hiện chỉ SC = 3.942 đ lấy từ phiếu mẫu, các mã khác là giá tạm).
 - Đối chiếu với 1 file Excel thật của công ty để chắc chắn tên cột khớp.
+# owst
