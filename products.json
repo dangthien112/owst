@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "ma": "SC",
+      "ten": "Sữa chua ăn VNM có đường 60g",
+      "dvt": "Hộp",
+      "gia": 3942
+    },
+    {
+      "ma": "SB",
+      "ten_ngan": "",
+      "ten": "Sữa bot VNM",
+      "dvt": "Kg",
+      "gia": 50000.0
+    },
+    {
+      "ma": "PROBI",
+      "ten": "Probi 6.5ml",
+      "dvt": "Chai",
+      "gia": 7500
+    },
+    {
+      "ma": "ADM",
+      "ten": "Sữa ADM",
+      "dvt": "Hộp",
+      "gia": 6500
+    },
+    {
+      "ma": "BAVI",
+      "ten": "Sữa chua Ba Vị 100g",
+      "dvt": "Hộp",
+      "gia": 7000
+    },
+    {
+      "ma": "SUA",
+      "ten": "Sữa chua",
+      "dvt": "Hộp",
+      "gia": 3942
+    },
+    {
+      "ma": "MEN",
+      "ten": "Men sống",
+      "dvt": "Gói",
+      "gia": 4500
+    }
+  ]
+}

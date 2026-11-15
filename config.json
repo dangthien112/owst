@@ -1,0 +1,31 @@
+{
+  "ten_cong_ty": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ ĐẦU TƯ BẢO HÙNG",
+  "dia_chi": "Số 12, Ngách 291/61 Lê Trọng Tấn, Phường Dương Nội, Thành phố Hà Nội, Việt Nam",
+  "mst": "01 0004448",
+  "dien_thoai": "0385 155 956",
+  "email": "",
+  "logo": "",
+  "tieu_de": "PHIẾU GIAO HÀNG",
+  "so_lien": 1,
+  "nhan_lien": [
+    "",
+    ""
+  ],
+  "hien_don_gia": true,
+  "nguoi_giao": "",
+  "ghi_chu_footer": "",
+  "so_phieu_dau": "BH00001",
+  "tien_to_so_phieu": "BH",
+  "so_bat_dau": 1,
+  "dung_ngay_hom_nay": true,
+  "delivery_date": "",
+  "customers": [
+    {
+      "excel_code": "MN KIM THƯ",
+      "ten_don_vi": "MN PHƯƠNG TRUNG II",
+      "nguoi_dat": "trang",
+      "dia_chi": "kim bai",
+      "dien_giai": "MN KIM THƯ"
+    }
+  ]
+}
